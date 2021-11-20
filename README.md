@@ -1,6 +1,6 @@
 # appconcept
 
-A new Flutter project.
+Coffee hub app concept
 
 ## Getting Started
 
